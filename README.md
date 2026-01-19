@@ -1,6 +1,19 @@
 im ayaan
 
 
+interested in computer science & cybersecurity
 
 
-aa
+
+learning: 
+
+
+- computer science basics
+
+
+
+- python basics
+
+
+
+- cybersecurity (tryhackme)
